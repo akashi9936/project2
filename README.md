@@ -1,6 +1,6 @@
 # project2
 
-# this project about me made with HTML&CSS
+# this project about me, made with HTML&CSS
 
 #output
 
